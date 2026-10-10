@@ -22,7 +22,7 @@ jobs:
       - name: Generate SVG
         env:
           GH_USERNAME: vaibhav025
-          GH_TOKEN: $&#123;{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node generate.mjs
 
       - name: Commit SVG
