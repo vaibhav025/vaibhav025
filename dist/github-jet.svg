@@ -2,7 +2,7 @@
  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
  <rect width="740" height="305" rx="18" fill="url(#bg)"/>
  <text x="26" y="32" fill="#e2e8f0" font-size="17" font-family="Arial,sans-serif" font-weight="bold">✈ vaibhav025 / contribution strike</text>
- <text x="714" y="32" text-anchor="end" fill="#67e8f9" font-size="11" font-family="Arial,sans-serif">162 contributions · last 34 weeks shown</text>
+ <text x="714" y="32" text-anchor="end" fill="#67e8f9" font-size="11" font-family="Arial,sans-serif">163 contributions · last 34 weeks shown</text>
  <g font-family="Arial,sans-serif"><text x="65" y="92" font-size="11" fill="#94a3b8">Invalid Date</text><text x="17" y="129" font-size="11" fill="#94a3b8">Mon</text><text x="17" y="165" font-size="11" fill="#94a3b8">Wed</text><text x="17" y="201" font-size="11" fill="#94a3b8">Fri</text></g>
  <rect x="65" y="105" width="13" height="13" rx="3" fill="#ebedf0" stroke="#ffffff" stroke-opacity=".06"><title>2026-03-08: 0 contributions</title></rect>
 <rect x="65" y="123" width="13" height="13" rx="3" fill="#ebedf0" stroke="#ffffff" stroke-opacity=".06"><title>2026-03-09: 0 contributions</title></rect>
@@ -237,7 +237,8 @@
 <rect x="641" y="213" width="13" height="13" rx="3" fill="#40c463" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-24: 10 contributions</title></rect>
 <rect x="659" y="105" width="13" height="13" rx="3" fill="#9be9a8" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-25: 1 contributions</title></rect>
 <rect x="659" y="123" width="13" height="13" rx="3" fill="#9be9a8" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-26: 5 contributions</title></rect>
-<rect x="659" y="141" width="13" height="13" rx="3" fill="#40c463" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-27: 9 contributions</title></rect>
+<rect x="659" y="141" width="13" height="13" rx="3" fill="#40c463" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-27: 10 contributions</title></rect>
+<rect x="659" y="159" width="13" height="13" rx="3" fill="#ebedf0" stroke="#ffffff" stroke-opacity=".06"><title>2026-10-28: 0 contributions</title></rect>
  <path d="M 12 56 H 725" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4 8" opacity=".2"/>
  <g transform="translate(0 56)">
  <g><animateTransform attributeName="transform" type="translate" values="20 0;730 0;20 0" keyTimes="0;.76;1" dur="12s" repeatCount="indefinite"/>
@@ -256,20 +257,6 @@
    <circle cx="71.5" cy="201.5" r="4" stroke="#fb923c" stroke-width="3" fill="none" opacity="0">
     <animate attributeName="opacity" values="0;.95;0;0" keyTimes="0;.01;.055;1" begin="0.66s" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="r" values="4;6;24;24" keyTimes="0;.01;.055;1" begin="0.66s" dur="12s" repeatCount="indefinite"/>
-   </circle>
-  </g>
-<g>
-   <circle r="3" fill="#ffe08a" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.002;.021;.025;1" begin="0.86s" dur="12s" repeatCount="indefinite" />
-    <animateMotion path="M 87.25877192982456 69 L 107.5 165.5" begin="0.86s" dur="12s" keyPoints="0;1;1" keyTimes="0;0.02333;1" calcMode="linear" repeatCount="indefinite" />
-   </circle>
-   <circle cx="107.5" cy="165.5" r="5" fill="#fff3a2" opacity="0">
-    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.01;.034;1" begin="1.12s" dur="12s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="5;14;2;2" keyTimes="0;.01;.034;1" begin="1.12s" dur="12s" repeatCount="indefinite"/>
-   </circle>
-   <circle cx="107.5" cy="165.5" r="4" stroke="#fb923c" stroke-width="3" fill="none" opacity="0">
-    <animate attributeName="opacity" values="0;.95;0;0" keyTimes="0;.01;.055;1" begin="1.12s" dur="12s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="4;6;24;24" keyTimes="0;.01;.055;1" begin="1.12s" dur="12s" repeatCount="indefinite"/>
    </circle>
   </g>
 <g>
@@ -326,6 +313,20 @@
    <circle cx="647.5" cy="219.5" r="4" stroke="#fb923c" stroke-width="3" fill="none" opacity="0">
     <animate attributeName="opacity" values="0;.95;0;0" keyTimes="0;.01;.055;1" begin="8.06s" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="r" values="4;6;24;24" keyTimes="0;.01;.055;1" begin="8.06s" dur="12s" repeatCount="indefinite"/>
+   </circle>
+  </g>
+<g>
+   <circle r="3" fill="#ffe08a" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.002;.021;.025;1" begin="8.03s" dur="12s" repeatCount="indefinite" />
+    <animateMotion path="M 645.2587719298245 69 L 665.5 147.5" begin="8.03s" dur="12s" keyPoints="0;1;1" keyTimes="0;0.02333;1" calcMode="linear" repeatCount="indefinite" />
+   </circle>
+   <circle cx="665.5" cy="147.5" r="5" fill="#fff3a2" opacity="0">
+    <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.01;.034;1" begin="8.29s" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="5;14;2;2" keyTimes="0;.01;.034;1" begin="8.29s" dur="12s" repeatCount="indefinite"/>
+   </circle>
+   <circle cx="665.5" cy="147.5" r="4" stroke="#fb923c" stroke-width="3" fill="none" opacity="0">
+    <animate attributeName="opacity" values="0;.95;0;0" keyTimes="0;.01;.055;1" begin="8.29s" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;6;24;24" keyTimes="0;.01;.055;1" begin="8.29s" dur="12s" repeatCount="indefinite"/>
    </circle>
   </g>
  <text x="26" y="278" fill="#94a3b8" font-size="11" font-family="Arial,sans-serif">Targets: 6 busiest days · Live GitHub contribution data</text>
